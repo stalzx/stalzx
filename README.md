@@ -10,13 +10,3 @@
 </a>
 
 </br>
-
-## 💻 Tech Stack:
-
-<img src="https://img.shields.io/badge/ansible-FFE4C4?style=for-the-badge&logo=ansible&logoColor=black"/> <img src="https://img.shields.io/badge/jenkins-FFE4C4?style=for-the-badge&logo=jenkins&logoColor=black"/> <img src="https://img.shields.io/badge/terraform-FFE4C4?style=for-the-badge&logo=terraform&logoColor=black"/> <img src="https://img.shields.io/badge/kubernetes-FFE4C4?style=for-the-badge&logo=kubernetes&logoColor=black"/> 
-
-<img src="https://img.shields.io/badge/docker-ADD8E6?style=for-the-badge&logo=docker&logoColor=black"/> <img src="https://img.shields.io/badge/git-A0522D?style=for-the-badge&logo=git&logoColor=black"/> <img src="https://img.shields.io/badge/github-A0522D?style=for-the-badge&logo=github&logoColor=black"/> 
-
-<img src="https://img.shields.io/badge/GNU Bash-00FFFF?style=for-the-badge&logo=GNU Bash&logoColor=black"/> <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/html5-87CEFA?style=for-the-badge&logo=html5&logoColor=black"/> <img src="https://img.shields.io/badge/css3-87CEFA?style=for-the-badge&logo=css3&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=white"/>
